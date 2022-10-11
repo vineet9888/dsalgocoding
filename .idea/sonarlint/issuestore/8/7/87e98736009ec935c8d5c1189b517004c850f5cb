@@ -1,0 +1,33 @@
+
+N
+java:S1854"8Remove this useless assignment to local variable "reff".(Ï•óŸ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÙáŒ¨
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+D
+java:S1481")Remove this unused "reff" local variable.(œ·ı¸úÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÍñË”
+M	java:S106-"9Replace this use of System.out or System.err by a logger.(…Ïës
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+M	java:S1069"9Replace this use of System.out or System.err by a logger.(Á—:
+]	java:S125G"<This block of commented-out lines of code should be removed.(é÷¾Ôùÿÿÿÿ8›ó–¬·0
+M	java:S106J"9Replace this use of System.out or System.err by a logger.(ü„ê!
+N	java:S106L"9Replace this use of System.out or System.err by a logger.(ş¤†‡
+S
+java:S1854U"8Remove this useless assignment to local variable "curr".(½òáÿÿÿÿÿ
+T	java:S106€"9Replace this use of System.out or System.err by a logger.(ÌÿÉûùÿÿÿÿ
+T	java:S106„"9Replace this use of System.out or System.err by a logger.(ÌÿÉûùÿÿÿÿ
+T
+java:S1854"8Remove this useless assignment to local variable "curr".(ä±Ö¨ùÿÿÿÿ
+O	java:S106—"9Replace this use of System.out or System.err by a logger.(Æ¶ªÜ
+T	java:S106œ"9Replace this use of System.out or System.err by a logger.(³æ••ıÿÿÿÿ
+T	java:S106£"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+V	java:S106¥"9Replace this use of System.out or System.err by a logger.(—ª8£¸•¬·0
+D
+java:S1144")Remove this unused private "test" method.(™ ‡¨ûÿÿÿÿ
+H
+java:S1144x"2Remove this unused private "generatePairs" method.(ŒÖç©
+P
+java:S1144Œ"4Remove this unused private "traverseInPairs" method.(ëÌğˆÿÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(öëâê
+X
+java:S2259"BA "NullPointerException" could be thrown; "prev" is nullable here.(ÍñË”

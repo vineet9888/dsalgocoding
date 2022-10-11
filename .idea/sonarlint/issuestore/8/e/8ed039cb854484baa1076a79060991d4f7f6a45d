@@ -1,0 +1,15 @@
+
+G
+java:S1197'",Move the array designators [][] to the type.(ÿÄÂáûÿÿÿÿ
+Q	java:S125."<This block of commented-out lines of code should be removed.(ä‘¥Ž
+G
+java:S11976",Move the array designators [][] to the type.(ÀŒÊùÿÿÿÿ
+n
+java:S16027"SRemove useless curly braces around statement and then remove useless return keyword(ÜÌšÿÿÿÿÿ
+N	java:S106<"9Replace this use of System.out or System.err by a logger.(££Ù«
+>	java:S108E")Either remove or fill this block of code.(å¥ž‡
+A
+java:S1197L",Move the array designators [][] to the type.(‚°À3
+i
+java:S1602N"SRemove useless curly braces around statement and then remove useless return keyword(‚‡œÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñ›²ïýÿÿÿÿ

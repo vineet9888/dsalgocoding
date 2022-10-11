@@ -1,0 +1,20 @@
+
+t
+java:S3008"YRename this field "NO_OF_REQUESTS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„óðÅþÿÿÿÿ
+œ
+java:S1186/"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‘Åçúûÿÿÿÿ
+8
+java:S2386"Make this member "protected".(Â½ë÷üÿÿÿÿ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(ÁœÅ‘
+>
+java:S1481*"(Remove this unused "map" local variable.(¥Ö’µ
+s
+java:S1104"XMake requestCache a static final constant or non-public and provide accessors if needed.(Â½ë÷üÿÿÿÿ
+u
+java:S1104"ZMake NO_OF_REQUESTS a static final constant or non-public and provide accessors if needed.(„óðÅþÿÿÿÿ
+M
+java:S1444"2Make this "public static requestCache" field final(Â½ë÷üÿÿÿÿ
+O
+java:S1444"4Make this "public static NO_OF_REQUESTS" field final(„óðÅþÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñ›²ïýÿÿÿÿ

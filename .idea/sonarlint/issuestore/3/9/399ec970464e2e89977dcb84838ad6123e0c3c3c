@@ -1,0 +1,38 @@
+
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 57 to the 15 allowed.(»ëþÍúÿÿÿÿ
+G
+java:S1197!",Move the array designators [][] to the type.(íØ´ãþÿÿÿÿ
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(‰•»«úÿÿÿÿ
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+V	java:S125K"<This block of commented-out lines of code should be removed.(ÆÕâçúÿÿÿÿ
+I
+java:S1611]"3Remove the parentheses around the "index" parameter(Öú…¥
+N	java:S106]"9Replace this use of System.out or System.err by a logger.(Öú…¥
+S	java:S106^"9Replace this use of System.out or System.err by a logger.(ÞžÒ—üÿÿÿÿ
+I
+java:S1611_"3Remove the parentheses around the "index" parameter(Ó±¯Ü
+N	java:S106_"9Replace this use of System.out or System.err by a logger.(Ó±¯Ü
+M	java:S106`"9Replace this use of System.out or System.err by a logger.(×ýÑ
+Q	java:S125e"<This block of commented-out lines of code should be removed.(³ÙÆ×
+N	java:S106€"9Replace this use of System.out or System.err by a logger.(ü„ê!
+U
+java:S1854†"9Remove this useless assignment to local variable "cache".(‡·éŸüÿÿÿÿ
+F
+java:S1481†"*Remove this unused "cache" local variable.(‡·éŸüÿÿÿÿ
+O	java:S106‰"9Replace this use of System.out or System.err by a logger.(òØ³
+W	java:S125‡"<This block of commented-out lines of code should be removed.(Ý¹–‚üÿÿÿÿ
+x
+java:S1319"bThe type of "cache" should be an interface such as "Map" rather than the implementation "HashMap".(È óü
+7
+java:S1643E"Use a StringBuilder instead.(¹ÿÄÛÿÿÿÿÿ
+7
+java:S1643j"Use a StringBuilder instead.(âšÿÀùÿÿÿÿ
+7
+java:S1643o"Use a StringBuilder instead.(²Ùáüÿÿÿÿ
+2
+java:S1643r"Use a StringBuilder instead.(”‘ÓÐ
+7
+java:S1643w"Use a StringBuilder instead.(âšÿÀùÿÿÿÿ
+7
+java:S1643{"Use a StringBuilder instead.(²Ùáüÿÿÿÿ

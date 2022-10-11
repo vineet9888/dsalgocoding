@@ -1,0 +1,18 @@
+
+—
+java:S1186@"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘
+t
+java:S22932"YReplace the type specification in this constructor call with the diamond operator ("<>").(Æˆûúÿÿÿÿ
+o
+java:S2293O"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÓÙÂË
+€
+java:S1319Q"jThe type of "_neighbors" should be an interface such as "List" rather than the implementation "ArrayList".(™ ƒ
+f	java:S117M"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÛÀ¼
+f	java:S117Q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ ƒ
+f	java:S117Q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ ƒ
+e
+java:S1104G"OMake val a static final constant or non-public and provide accessors if needed.(Ô¸úÏ
+k
+java:S1104H"UMake neighbors a static final constant or non-public and provide accessors if needed.(«³›æ
+E
+java:S5411"*Use the primitive boolean expression here.(Óãí²ûÿÿÿÿ

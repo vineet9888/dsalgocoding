@@ -1,0 +1,12 @@
+
+k
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û›þöýÿÿÿÿ
+c
+java:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ñ¬½Çþÿÿÿÿ
+c
+java:S5361%"HReplace this call to "replaceAll()" by a call to the "replace()" method.(øô§ÿÿÿÿÿ
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(ŸàÛ¦
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(‡œ£Ñ
+1
+java:S3626h"Remove this redundant jump.(ûÁÝ…
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(Ö÷É øÿÿÿÿ

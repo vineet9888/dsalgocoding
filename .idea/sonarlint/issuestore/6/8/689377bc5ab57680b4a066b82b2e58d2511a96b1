@@ -1,0 +1,32 @@
+
+k
+java:S1149:"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ƒÿƒ—ùÿÿÿÿ
+f
+java:S1149E"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(’û×Ò
+Q	java:S125"<This block of commented-out lines of code should be removed.(áôß«
+J
+java:S1611"/Remove the parentheses around the "k" parameter(ÐÒÃýýÿÿÿÿ
+G
+java:S1602 ",Remove useless curly braces around statement(÷ž¯Ëÿÿÿÿÿ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(¦çû”þÿÿÿÿ
+N	java:S106("9Replace this use of System.out or System.err by a logger.(¸‘²
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(¸‘²
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+A
+java:S14816"&Remove this unused "s" local variable.(®þîìøÿÿÿÿ
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(‰É†þÿÿÿÿ
+N	java:S106@"9Replace this use of System.out or System.err by a logger.(‡œ£Ñ
+1
+java:S3626^"Remove this redundant jump.(ûÁÝ…
+N	java:S106d"9Replace this use of System.out or System.err by a logger.(£ÃÁÙ
+S	java:S106e"9Replace this use of System.out or System.err by a logger.(ü…„ýÿÿÿÿ
+[	java:S106Á"9Replace this use of System.out or System.err by a logger.(Èð¨ëýÿÿÿÿ8îèÄð¨0
+U
+java:S1155™">Use isEmpty() to check whether the collection is empty or not.(í˜ìµ
+U
+java:S1155 ">Use isEmpty() to check whether the collection is empty or not.(ãƒÅÜ
+W
+java:S4973i"<Strings and Boxed types should be compared using "equals()".(Å®ÑØùÿÿÿÿ
+W
+java:S4973p"<Strings and Boxed types should be compared using "equals()".(Å®ÑØùÿÿÿÿ

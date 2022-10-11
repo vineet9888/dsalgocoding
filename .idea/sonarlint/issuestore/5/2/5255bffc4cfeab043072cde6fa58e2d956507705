@@ -1,0 +1,14 @@
+
+V	java:S125"<This block of commented-out lines of code should be removed.(¤áŸªüÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ù°÷®
+N	java:S106""9Replace this use of System.out or System.err by a logger.(‹ƒ³À
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(‹ƒ³À
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(‹ƒ³À
+G
+java:S1602V",Remove useless curly braces around statement(Ä®öÿÿÿÿÿ
+S	java:S106W"9Replace this use of System.out or System.err by a logger.(ğ®¶îüÿÿÿÿ
+m
+java:S3776\"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(÷¼Ç³ùÿÿÿÿ
+G
+java:S1602v",Remove useless curly braces around statement(†¦±İşÿÿÿÿ
+S	java:S106w"9Replace this use of System.out or System.err by a logger.(ˆ§—«ùÿÿÿÿ

@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8f1ea3c7-f382-4333-be9c-45c8b390c9bf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="1rHqfVIyQSSjiYF7s8XjDIVh2nb" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.36666667" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="Application.CelInt">
+    <configuration name="AngelOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tech.interviews.AngelOne" />
+      <module name="DSAlgoProblemSolving" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tech.interviews.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Arcesium" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tech.interviews.Arcesium" />
+      <module name="DSAlgoProblemSolving" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tech.interviews.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CelInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tech.interviews.CelInt" />
+      <module name="DSAlgoProblemSolving" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tech.interviews.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Celigo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tech.interviews.Celigo" />
+      <module name="DSAlgoProblemSolving" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tech.interviews.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CombinationSum" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ds.algo.problem.solving.AmazonPrepration.CombinationSum" />
+      <module name="DSAlgoProblemSolving" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ds.algo.problem.solving.AmazonPrepration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReversePairsList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ds.algo.problem.solving.LinkedList.ReversePairsList" />
+      <module name="DSAlgoProblemSolving" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ds.algo.problem.solving.LinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CelInt" />
+        <item itemvalue="Application.Arcesium" />
+        <item itemvalue="Application.Celigo" />
+        <item itemvalue="Application.AngelOne" />
+        <item itemvalue="Application.ReversePairsList" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f1ea3c7-f382-4333-be9c-45c8b390c9bf" name="Default Changelist" comment="" />
+      <created>1618643465590</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618643465590</updated>
+      <workItem from="1618643469488" duration="28202000" />
+      <workItem from="1618852678392" duration="2024000" />
+      <workItem from="1619199700468" duration="34592000" />
+      <workItem from="1619600584946" duration="29700000" />
+      <workItem from="1619765816734" duration="19941000" />
+      <workItem from="1620019075368" duration="3290000" />
+      <workItem from="1620107241482" duration="106942000" />
+      <workItem from="1621329556021" duration="7650000" />
+      <workItem from="1621620076488" duration="165107000" />
+      <workItem from="1623993797727" duration="732000" />
+      <workItem from="1624170500263" duration="16399000" />
+      <workItem from="1624515133645" duration="10184000" />
+      <workItem from="1624691653501" duration="13330000" />
+      <workItem from="1625075431516" duration="66484000" />
+      <workItem from="1626464810459" duration="14732000" />
+      <workItem from="1626671261551" duration="29831000" />
+      <workItem from="1627316226861" duration="12523000" />
+      <workItem from="1627809505709" duration="609000" />
+      <workItem from="1627810206488" duration="39231000" />
+      <workItem from="1629701386502" duration="60469000" />
+      <workItem from="1630906294457" duration="80435000" />
+      <workItem from="1632638042511" duration="33128000" />
+      <workItem from="1634055132883" duration="18409000" />
+      <workItem from="1635048603943" duration="14278000" />
+      <workItem from="1635748232337" duration="79000" />
+      <workItem from="1635748365787" duration="4150000" />
+      <workItem from="1636346990891" duration="53900000" />
+      <workItem from="1637558304073" duration="4802000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ds/algo/problem/solving/AmazonPrepration/CombinationSum.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ds/algo/problem/solving/AmazonPrepration/PairSumDivisibleByK.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ds/algo/problem/solving/AmazonPrepration/PairSumDivisibleByK.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ds/algo/problem/solving/AmazonPrepration/OLA.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ds/algo/problem/solving/Arrays/MatrixSpiralOrder.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ds/algo/problem/solving/Arrays/MatrixSpiralOrder.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ds/algo/problem/solving/Arrays/SlidingWindowMaximum.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ds/algo/problem/solving/heap/MedianOfRunningStream.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ds/algo/problem/solving/stack/ReverseStack.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ds/algo/problem/solving/graphs/SearchWordInGrid.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ds/algo/problem/solving/graphs/SearchWordInGrid.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ds/algo/problem/solving/dp/LongestIncreasingSubsequence.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ds/algo/problem/solving/stack/NextGreaterElement.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ds/algo/problem/solving/Arrays/SmallestSubarrayWithSumGreatedThanGivenValue.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ds/algo/problem/solving/Arrays/UglyNumbers2.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ds/algo/problem/solving/trees/RootToLeafNodePath.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ds/algo/problem/solving/graphs/CourseSchedule.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ds/algo/problem/solving/graphs/CourseSchedule.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="155" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ds/algo/problem/solving/LinkedList/TwinSumLinkedList.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="159" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ds/algo/problem/solving/Arrays/RemoveStringDuplicates.java</url>
+          <line>83</line>
+          <option name="timeStamp" value="164" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ds/algo/problem/solving/Arrays/RemoveStringDuplicates.java</url>
+          <line>76</line>
+          <option name="timeStamp" value="165" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ds/algo/problem/solving/Arrays/Suduko.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="167" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ds/algo/problem/solving/Arrays/SpiralMatrix.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="174" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ds/algo/problem/solving/backtracking/DecodeWays.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="176" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/tech/interviews/NexthinkInterview.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="178" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/tech/interviews/NexthinkInterview.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="179" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ds/algo/problem/solving/binarysearch/SearchInRotatedSortedArray.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="183" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ds/algo/problem/solving/dp/CountWaysToSumN.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="186" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ds/algo/problem/solving/dp/Knapsack.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="187" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/tech/interviews/JpMorgan.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="188" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/interview/lld/TicTacToe.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="197" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ds/algo/problem/solving/backtracking/PrintLetterCombinations.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="199" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ds/algo/problem/solving/LinkedList/ReversePairsList.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="218" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ds/algo/problem/solving/LinkedList/ReversePairsList.java</url>
+          <line>83</line>
+          <option name="timeStamp" value="219" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/tech/interviews/AngelOne.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="220" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/tech/interviews/Arcesium.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="223" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/tech/interviews/Arcesium.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="224" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/ds/algo/problem/solving/Arrays/CradlePoint.java</url>
+          <line>75</line>
+          <properties class="com.ds.algo.problem.solving.Arrays.CradlePoint" method="mergeIntervals">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="158" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StackOverflowError" package="java.lang" />
+          <option name="timeStamp" value="185" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

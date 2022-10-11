@@ -1,0 +1,8 @@
+
+M
+java:S1611"2Remove the parentheses around the "node" parameter(ç¬«€ûÿÿÿÿ
+G
+java:S1602",Remove useless curly braces around statement(ç¬«€ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÌÿÉûùÿÿÿÿ
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8ñ¯Â­0

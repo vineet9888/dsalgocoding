@@ -1,0 +1,23 @@
+
+[	java:S112-"FDefine and throw a dedicated exception instead of using a generic one.(àÊñ
+J
+java:S3740"/Provide the parametrized type for this generic.(ü«äıøÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(ü«äıøÿÿÿÿ
+E
+java:S3740"/Provide the parametrized type for this generic.(×á¨
+E
+java:S3740"/Provide the parametrized type for this generic.(×á¨
+Q	java:S125
+"<This block of commented-out lines of code should be removed.(æïÖ
+^
+java:S1612"CReplace this lambda with method reference 'RateLimiter::printData'.(ü«äıøÿÿÿÿ
+Y
+java:S1612"CReplace this lambda with method reference 'RateLimiter::printData'.(×á¨
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(°è­‡üÿÿÿÿ
+V	java:S125N"<This block of commented-out lines of code should be removed.(şµ¥‡ÿÿÿÿÿ
+B
+java:S1602S",Remove useless curly braces around statement(´íÆ‰
+S	java:S106T"9Replace this use of System.out or System.err by a logger.(¦çû”şÿÿÿÿ
+t
+java:S2142Y"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€

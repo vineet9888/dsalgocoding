@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DSAlgoProblemSolving.iml" filepath="$PROJECT_DIR$/DSAlgoProblemSolving.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../System Design/low-level-design-messaging-queue-pub-sub-main/message-queue-pub-sub.iml" filepath="$PROJECT_DIR$/../System Design/low-level-design-messaging-queue-pub-sub-main/message-queue-pub-sub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../System Design/lld-parking-lot-master/parking-lot.iml" filepath="$PROJECT_DIR$/../System Design/lld-parking-lot-master/parking-lot.iml" />
+    </modules>
+  </component>
+</project>

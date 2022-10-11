@@ -1,0 +1,36 @@
+
+œ
+java:S1186w"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(È„öøúÿÿÿÿ
+Q
+java:S1854";Remove this useless assignment to local variable "visited".(ø°©Ä
+B
+java:S1197",Move the array designators [][] to the type.(ø°©Ä
+B
+java:S1481",Remove this unused "visited" local variable.(ø°©Ä
+@
+java:S1197"*Move the array designators [] to the type.(„Æê
+V	java:S125-"<This block of commented-out lines of code should be removed.(‡œİùÿÿÿÿ
+E
+java:S11976"*Move the array designators [] to the type.(µ‡Ğšøÿÿÿÿ
+E
+java:S11979"*Move the array designators [] to the type.(Ü™Íõøÿÿÿÿ
+E
+java:S1197:"*Move the array designators [] to the type.(øÒş¡úÿÿÿÿ
+N	java:S106L"9Replace this use of System.out or System.err by a logger.(è”
+S	java:S106M"9Replace this use of System.out or System.err by a logger.(õìí›ÿÿÿÿÿ
+h
+java:S3776P"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(®éå©
+B
+java:S1197P",Move the array designators [][] to the type.(®éå©
+E
+java:S1197^"*Move the array designators [] to the type.(¡ãªŒüÿÿÿÿ
+@
+java:S1197_"*Move the array designators [] to the type.(š‹òÁ
+G
+java:S1197w",Move the array designators [][] to the type.(È„öøúÿÿÿÿ
+e
+java:S1104"OMake row a static final constant or non-public and provide accessors if needed.(²¤÷”
+e
+java:S1104"OMake col a static final constant or non-public and provide accessors if needed.(¶¤´ó
+f
+java:S1104	"PMake time a static final constant or non-public and provide accessors if needed.(ï×©Á

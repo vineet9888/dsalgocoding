@@ -1,0 +1,17 @@
+
+G
+java:S1197",Move the array designators [][] to the type.(…óÜµÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(›¾ãáúÿÿÿÿ
+N
+java:S1854"8Remove this useless assignment to local variable "cols".(ğÅæÙ
+G
+java:S1197",Move the array designators [][] to the type.(ÉéÕ²ùÿÿÿÿ
+?
+java:S1481")Remove this unused "cols" local variable.(ğÅæÙ
+@
+java:S1197"*Move the array designators [] to the type.(Öò¿š
+E
+java:S1611"/Remove the parentheses around the "k" parameter(êôı·
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(óÌÎ•şÿÿÿÿ8®’¶¤­0
+L
+java:S1197%"*Move the array designators [] to the type.(Ç¬ó—ÿÿÿÿÿ8ªôö£­0

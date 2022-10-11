@@ -1,0 +1,11 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(±‚ÿŸúÿÿÿÿ
+V	java:S125T"<This block of commented-out lines of code should be removed.(º±Éÿýÿÿÿÿ
+Q	java:S125W"<This block of commented-out lines of code should be removed.(²å¸Õ
+M
+java:S1611Y"2Remove the parentheses around the "node" parameter(ìâîÅúÿÿÿÿ
+G
+java:S1602Y",Remove useless curly braces around statement(ìâîÅúÿÿÿÿ
+[
+java:S1612Y"@Replace this lambda with method reference 'System.out::println'.(ìâîÅúÿÿÿÿ
+N	java:S106Z"9Replace this use of System.out or System.err by a logger.(‡œ£Ñ
